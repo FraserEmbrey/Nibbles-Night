@@ -11,24 +11,24 @@ Location: Fraser's Flat
 
 ### Meat
 
-Gilda
-Sarde in Saor
-Prosciutto-Wrapped Asparagus
-Chorizo & Manchego with Pickled Peppers
-Insalata del Mare
+- Gilda
+- Sarde in Saor
+- Prosciutto-Wrapped Asparagus
+- Chorizo & Manchego with Pickled Peppers
+- Insalata del Mare
 
 ### Vegetarian
 
-Marinated Olives with Citrus & Rosemary
-Pizzeta
-Crostini al Funghi
-Tomato Bruschetta with Basil
-Fig & Gorgonzola Crostini
-Charred Peppers & Goat Cheese
+- Marinated Olives with Citrus & Rosemary
+- Pizzeta
+- Crostini al Funghi
+- Tomato Bruschetta with Basil
+- Fig & Gorgonzola Crostini
+- Charred Peppers & Goat Cheese
 
 ## Non-Alcoholic Cocktails
 
-Blood Orange & Rosemary Fizz
-Berry Basil Lemonade
-Pineapple Caviar
-Warm Winter Punch
+- Blood Orange & Rosemary Fiz
+- Berry Basil Lemonade
+- Pineapple Caviar
+- Warm Winter Punch
