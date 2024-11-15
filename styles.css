@@ -1,0 +1,74 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: Palatino, sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+}
+
+/* Header Styling */
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2em;
+    color: #2c3e50;
+}
+
+header p {
+    font-size: 1.1em;
+    color: #555;
+}
+
+/* Section Styling */
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #2c3e50;
+    border-bottom: 2px solid #e74c3c;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+h3 {
+    font-size: 1.2em;
+    color: #e74c3c;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+/* List Styling */
+ul {
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+li {
+    font-size: 1em;
+    padding: 5px 0;
+    color: #555;
+}
+
+/* Footer Styling */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    font-size: 0.9em;
+    color: #888;
+    border-top: 1px solid #ddd;
+    margin-top: 20px;
+}
